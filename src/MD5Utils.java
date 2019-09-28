@@ -23,7 +23,7 @@ public class MD5Utils {
 		}
 		return md5code;
 	}
-//修改
+//修改//
 	public static void main(String[] args) {
 		System.out.println(md5("123"));
 	}
